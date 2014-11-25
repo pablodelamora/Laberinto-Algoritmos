@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{326AC8C2-41B0-8694-D25F-A799FDA892D4}") = "Laberinto", "Assembly-CSharp.csproj", "{D85800E4-F724-5EF0-1A74-09D162D1DC27}"
+EndProject
+Project("{326AC8C2-41B0-8694-D25F-A799FDA892D4}") = "Laberinto", "Assembly-CSharp-Editor.csproj", "{49C00BF0-B4B5-1AEC-6B6B-2AE27AB34095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85800E4-F724-5EF0-1A74-09D162D1DC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85800E4-F724-5EF0-1A74-09D162D1DC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85800E4-F724-5EF0-1A74-09D162D1DC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85800E4-F724-5EF0-1A74-09D162D1DC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C00BF0-B4B5-1AEC-6B6B-2AE27AB34095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C00BF0-B4B5-1AEC-6B6B-2AE27AB34095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C00BF0-B4B5-1AEC-6B6B-2AE27AB34095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C00BF0-B4B5-1AEC-6B6B-2AE27AB34095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+								GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
